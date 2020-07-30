@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(41, 66, 209);
+    color: white;
+    font: normal 18pt Arial;
+    text-align: center;
+}
+
+section#bloco{
+    width: 600px;
+    height: 400px;
+    background-color: white;
+    margin: auto;
+    border-radius: 5%;
+    color: black;
+    padding: 15px;
+    box-shadow: rgba(0, 0, 0, 0.322) 5px 5px 10px;
+}
+
+img#imagem{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+}
+
+footer{
+    font-style: italic;
+}
